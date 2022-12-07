@@ -51,3 +51,14 @@ a {
 .br {
     line-height: 25px;
 }
+.blogdiv {
+    background-color: rgb(24, 25, 38);
+    text-align: center;
+    color: rgb(202, 211, 245);
+    font-family: monospace;
+    border: 5px transparent solid;
+    margin: 15px;
+    border-radius: 25px;
+    padding: 10px;
+    position: relative;
+}
